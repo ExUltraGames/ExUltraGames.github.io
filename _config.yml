@@ -22,9 +22,9 @@
 title: Ex Ultra Games
 email: exultragames@outlook.com
 description: Portfolio and current project by Andrew Paine
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  jekyll
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ExUltraGames
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0

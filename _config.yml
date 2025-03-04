@@ -18,7 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
 title: Ex Ultra Games
 email: exultragames@outlook.com
 description: Portfolio and current project by Andrew Paine
@@ -28,7 +27,7 @@ github_username:  ExUltraGames
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
-# theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 - jekyll-remote-theme
